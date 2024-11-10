@@ -24,3 +24,7 @@ __pycache__/
 .python-version
 
 .venv/
+
+.env
+
+gcp-keys
